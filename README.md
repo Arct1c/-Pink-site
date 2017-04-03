@@ -1,1 +1,1 @@
-# -Pink-site
+# Another training project of adaptive web site
