@@ -1,1 +1,1 @@
-# Another training project of adaptive web site
+# Another training project of an adaptive web site
